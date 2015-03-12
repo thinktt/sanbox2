@@ -1,1 +1,1 @@
-function howdy(){console.log("Howdy!")}function test(a){console.log(a)}howdy(),test("Yo"),howdy();
+function howdy(){console.log("Howdy!")}function test(a){console.log(a)}howdy(),howdy(),test("Yo"),howdy(),console.log("Howdy again");

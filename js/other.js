@@ -3,3 +3,4 @@ function howdy () {
 }
 
 howdy();
+howdy();
